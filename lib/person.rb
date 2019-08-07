@@ -11,7 +11,7 @@ class Person
   @eye_color = eye_color
   @height = height
   @weight = weight
-  @handed =
+  @handed = handed
   @complexion = complexion
   @t_shirt_size = t_shirt_size
   @wrist_size = wrist_size
